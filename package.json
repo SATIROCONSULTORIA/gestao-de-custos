@@ -4,7 +4,8 @@
   "description": "Sistema de gestão de custos para plantio e colheita de amendoim",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "npm install"
   },
   "dependencies": {
     "express": "^4.18.2",
