@@ -1,0 +1,21 @@
+# Node.js
+node_modules
+.env
+*.log
+
+# Editor de Código (VSCode, etc.)
+.vscode
+.idea
+.DS_Store
+
+# Logs e Dados Temporários
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistemas Operacionais
+Thumbs.db
+.DS_Store
+
+# Outros arquivos indesejados
+*.bak

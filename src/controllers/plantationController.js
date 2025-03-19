@@ -1,0 +1,15 @@
+{
+  "name": "gestao-de-custos",
+  "version": "1.0.0",
+  "description": "Sistema de gestão de custos para plantio e colheita de amendoim",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.0.13",
+    "dotenv": "^16.0.0",
+    "nodemailer": "^6.9.2"
+  }
+}
